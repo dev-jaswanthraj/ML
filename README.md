@@ -29,3 +29,54 @@ ML from scratch
 * Standard Deviation and Variance
 
   Standard Devation = √Variance
+* Experiment
+
+  An 'Experiment' is a procedure that can be repeated  **infinitely** , resulting in a set of possible outcomes.
+* Sample Space
+
+  The set of all possible outcomes of an experiment forms a 'Sample Space'.
+* An **'Event'** is a subset of the outcomes of an experiment. Event ⊆ SampleSpace
+
+  ![Population and Sample](https://play-content-assets.fresco.me/play_contents/2/12/29398_Population.jpeg)
+* Probability, i) The likelihood of the occurrence of an event is known as probability.  ii)The value of probability of an event lies between **0** and  **1** .
+
+Probability (P)= No.of FavorableOutcomes / Total no.of outcomes = n(E) / n(S)
+
+---
+
+###### Types of Events
+
+**
+    Simple Event**
+
+    Any event containing a**single** element of a sample space.
+
+**
+    Compound Event**
+
+    Any event containing**two or more** elements of a sample space.
+
+**
+    Dependent Event**
+
+    If the occurrence of an event is**influenced** by another event, it is called a 'Dependent Event'.
+
+**
+    Independent Event**
+
+    If the occurrence of an event is**not influenced** by another event, it is called an 'Independent Event'.
+
+**
+    Exhaustive Events**
+
+    A set of events devouring the**entire sample space** .
+
+**
+    Mutually Exclusive**
+
+    Two events are said to be mutually exclusive events when both cannot occur at the same time.
+
+*
+    Example:*
+
+    While driving a car, the steering wheel cannot be turned left and right at the same time. Therefore, the 		events turning left and turning right are considered to be mutually exclusive.
