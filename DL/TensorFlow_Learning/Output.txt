@@ -1,0 +1,2 @@
+determinant1 11.000000
+determinant2 11.000000
